@@ -1,56 +1,48 @@
+Here is a README.md file for this GitHub Pages project:
 
-TITLE: 
-Charity - 100% Fully Responsive Free HTML5 Bootstrap Template
+# Scarlet Soldiers Fundraising Site
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+This is a GitHub Pages site created by Josh Ramirez for a student team called Scarlet Soldiers to raise funds for the Leukemia & Lymphoma Society.
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+## About
 
+The Scarlet Soldiers are a group of high school students participating in the Student Visionaries of the Year program with The Leukemia & Lymphoma Society in 2023. Their mission is to raise funds and awareness to support blood cancer research and patient services.
 
-CREDITS:
+The site contains the following pages:
 
-Bootstrap
-http://getbootstrap.com/
+- Home - Introduces the team and cause and prompts visitors to donate
+- About - Provides more detail on the team's origins and members
+- Contact - Lists contact information for the team
 
-jQuery
-http://jquery.com/
+## Technologies Used
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+The site was built using:
 
-Modernizr
-http://modernizr.com/
+- HTML
+- CSS
+- JavaScript
 
-Google Fonts
-https://www.google.com/fonts/
+It is hosted on GitHub Pages.
 
-Google Map
-http://maps.google.com
+## Team
 
-Icomoon
-https://icomoon.io/app/
+The Scarlet Soldiers team members featured on the About page are:
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+- Aaron Sada - Team Leader
+- Josh Ramirez 
+- Juliet Allen
+- Will Cook
+- Maggie Pickens
+- Gianluca Sabella
 
-animate.css
-http://daneden.me/animate
+## License
 
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+This project is open source and available under the [MIT License](LICENSE).
 
-Superfish Menu
-http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+## Contact
 
-hoverIntent
-https://github.com/briancherne/jquery-hoverIntent
+Reach out to the team via: 
 
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Demo Images
-http://unsplash.com/
-
+- Instagram [@scarlet_soldiers](https://www.instagram.com/scarlet_soldiers/)
+- Email [josh.scarletsoldiers@gmail.com](mailto:josh.scarletsoldiers@gmail.com)
+- Site [www.scarletsoldiers.github.io](https://scarletsoldiers.github.io/)
